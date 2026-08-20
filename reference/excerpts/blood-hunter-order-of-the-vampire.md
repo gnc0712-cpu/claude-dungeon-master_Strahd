@@ -8,7 +8,7 @@ Source: homebrew Blood Hunter subclass (not an officially published Order — th
 
 When you join this order at 3rd level, you learn to use your vampiric influences to manipulate your enemies and hunt with the aid of fresh blood.
 
-- You gain proficiency in Persuasion or Deception. **(Open item — confirming with the player which, since the text also lists a "Honeyed Words: gain proficiency in Persuasion" line that may be redundant with this choice or a separate bonus. Not applying either until confirmed.)**
+- You gain proficiency in Persuasion or Deception — the two named options are **Honeyed Words** (Persuasion) or its Deception counterpart. **Chosen: Honeyed Words (Persuasion).**
 - By placing a drop of wet blood from a specific creature on your tongue, you gain understanding and power over them. If the creature is alive, for the next hour you add your Intelligence modifier to all Charisma checks against that specific creature, provided you share at least one language. If the creature is dead, you gain advantage on Intelligence (Investigation) checks related to the grisly nature of their death, and Intelligence (History) checks related to the creature should they have a notable past. At the DM's discretion, visions of things unknown to the character can occur on higher rolls.
 
 ## Level 3: Vampiric Maledict

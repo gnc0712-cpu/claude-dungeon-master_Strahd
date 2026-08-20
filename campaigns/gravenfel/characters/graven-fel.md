@@ -28,7 +28,7 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Proficiencies
 - **Saving Throws**: Dexterity (+7), Intelligence (+4)
-- **Skills**: Investigation (+4), Insight (+4), History (+4) [Blood Hunter]; Perception (+4) [Human, Skillful]; Arcana (+4), Survival (+4) [Haunted One background]
+- **Skills**: Investigation (+4), Insight (+4), History (+4) [Blood Hunter]; Perception (+4) [Human, Skillful]; Arcana (+4), Survival (+4) [Haunted One background]; Persuasion (+4) [Order of the Vampire, Honeyed Words]
 - **Weapons**: Simple weapons, martial weapons [Blood Hunter]
 - **Armor**: Light armor, medium armor, shields [Blood Hunter]
 - **Tools**: Alchemist's supplies [Blood Hunter]
@@ -52,7 +52,7 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 **Crimson Rite: Rite of the Flame** (Blood Hunter 2) — Bonus action to activate on a held weapon (costs 1d4 necrotic damage to Graven, can't be reduced); while active, that weapon's attacks are magical and deal +1d4 fire damage. Lasts until a short/long rest ends it. Only one weapon can hold a rite at a time.
 
-**Preternatural Charisma** (Order of the Vampire 3, homebrew — see `reference/excerpts/blood-hunter-order-of-the-vampire.md`) — Proficiency in Persuasion or Deception (open item, awaiting player confirmation on which). Blood-tasting ability: a drop of a specific creature's blood on the tongue grants +INT to Charisma checks against them for 1 hour (if alive, shared language required), or advantage on Investigation checks about their death / History checks about their past (if dead).
+**Preternatural Charisma** (Order of the Vampire 3, homebrew — see `reference/excerpts/blood-hunter-order-of-the-vampire.md`) — Honeyed Words: proficiency in Persuasion (chosen). Blood-tasting ability: a drop of a specific creature's blood on the tongue grants +INT to Charisma checks against them for 1 hour (if alive, shared language required), or advantage on Investigation checks about their death / History checks about their past (if dead).
 
 **Vampiric Maledict** (Order of the Vampire 3, homebrew) — When amplifying a Blood Curse, can deal the Hemocraft die roll as necrotic damage to a blooded target instead/in addition, regain half that as HP (min 1), and gain Preternatural Charisma's benefit against that target.
 
@@ -100,7 +100,6 @@ Hook: **Lost in the Mists** — no established ties to Barovia; this is a job li
 ## Notes
 
 - Levels 1–3 confirmed; next class-feature ask is whatever comes at level 4.
-- Open item: Persuasion vs. Deception (or both) for Preternatural Charisma — awaiting confirmation.
 - Open item: the nature of the "haunting" is deliberately undefined for now.
 - Encounters in Arc A and beyond are being scaled down from Reloaded's 5-person party assumption to fit solo play, per the player's request — see DM judgment call logged in `../state.md`.
 - Traveling companions: the ghosts of Rose and Thorn Durst (rescued from Death House's attic) — only one possesses Graven at a time, granting either Rose's cantrips (mending, light, shocking grasp) or Thorn's mage hand as an action. Their remains are in Graven's pack; he promised to bury them in a garden once he escapes the house.
