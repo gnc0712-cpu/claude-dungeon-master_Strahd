@@ -4,7 +4,7 @@
 - **Race**: Human (2024 rules — see `reference/excerpts/race-human-2024.md`)
 - **Class**: Blood Hunter (Order of the... TBD), Level 1
 - **Background**: Haunted One (see `reference/excerpts/background-haunted-one.md`)
-- **Alignment**: TBD
+- **Alignment**: Chaotic Neutral
 
 ## Ability Scores
 | Stat | Score | Modifier |
@@ -19,7 +19,7 @@
 Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One background (2024 rules put ability score increases on background, not race).
 
 ## Combat
-- **AC**: TBD — pending armor choice
+- **AC**: 17 (studded leather, 12 + Dex modifier)
 - **HP**: 13 / 13 (max) — 10 + CON mod (+3), Blood Hunter d10 hit die
 - **Hit Dice**: 1d10 (1/1 remaining)
 - **Speed**: 30 ft.
@@ -49,7 +49,24 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 **Heart of Darkness** (Haunted One background) — Commoners extend every courtesy and will fight alongside Graven against a threat, unless he's shown himself dangerous to them.
 
 ## Equipment
-*Pending — armor and weapon loadout not yet finalized.*
+
+**Weapons**
+- Longsword — 1d8 slashing (versatile 1d10), STR-based (no finesse feature confirmed yet): +3 to hit, 1d8+1 (or 1d10+1 two-handed) damage
+- Light crossbow + 20 bolts — 1d8 piercing, DEX-based: +7 to hit, 1d8+5 damage. *This is his stronger weapon by a wide margin given DEX 20 vs. STR 12 — worth keeping in mind for how he actually fights, or flag if a finesse feature shows up later that would let the longsword use DEX instead.*
+
+**Armor:** Studded leather (AC 17 total)
+
+**Adventuring gear**
+- Explorer's pack: backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, 50 ft. hempen rope
+- Monster Hunter's Pack: chest, crowbar, hammer, 3 wooden stakes, holy symbol, flask of holy water, manacles, steel mirror, flask of oil, tinderbox, 3 torches
+- Alchemist's supplies (tool proficiency)
+- Set of common clothes
+
+**Personal items**
+- A silver coin worn as a necklace
+- A vial of dragon blood
+
+*(Both personal items are unexplained in origin — could be seeded as story hooks later rather than just flavor, if that's of interest.)*
 
 ## Personality
 
