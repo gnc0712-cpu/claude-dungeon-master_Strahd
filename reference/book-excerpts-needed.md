@@ -35,6 +35,27 @@ Reloaded's "Brand-New Barovia" rule: if the guide references a specific room/sec
 
 The workflow for these: when we're about to run an arc that cites the original book, I'll flag exactly which page(s) it needs *before* that session (not mid-scene), you grab it once, and it goes into `reference/excerpts/` under that arc's name — permanent after that. First one up is **Arc A — Escape From Death House**, since that's the campaign opener; I'll give you its specific citation list when we start Session Zero.
 
-## Deferred — Van Richten's Guide to Ravenloft
+## Van Richten's Guide to Ravenloft
 
-You said we'll do this as a separate pass. A few Reloaded citations already point to VRGtR content (general Ravenloft/Dark Powers lore, Doru's vampire-lore dialogue, hag material) — I'll compile the real list the same way (grep the actual citations) once we get to it rather than guessing now.
+Built the same way as everything above — grep'd the real citations across all of `reference/curse-of-strahd-reloaded/`, not guessed.
+
+### Tier 1 — worth getting now
+
+- [ ] **Boneless** (VRGtR p. 228) — appears in **Arc A, Escape From Death House** (the campaign opener — inside the footlocker, made from Gustav Durst's flayed skin) *and* again in Arc P (Ravenloft Heist). Highest priority of anything on this list since it's needed for session one.
+- [ ] **Zombie clots** (VRGtR p. 255) — 25 of them in Arc U, Dreams of Dawn (the finale). Not urgent, but simple to grab now while we're at it.
+- [ ] **Ezra, God of the Mists** (VRGtR p. 64) — this is lore text, not a stat block: the deity some Barovians secretly worship. Referenced in general Barovia lore plus Arc F and Arc T, so it could come up in ordinary exploration/roleplay at almost any point rather than one fixed scene.
+
+### Tier 2 — a full location, not a quick excerpt
+
+- [ ] **"Chapter 11: Van Richten's Tower"** (VRGtR, roughly p. 157–180) — a substantial side location (Lake Baratok, the archmage Khazan's tower, an antimagic field, multiple named rooms) cited across at least seven different files: History of Barovia, Arc E, Arc I, Arc J, Arc L, Arc R, and Arc T. This is pages of actual dungeon content, not a single stat block or paragraph — closer in size to a mini-arc than an excerpt. Worth planning as its own gathering session rather than folding into a quick batch. First cited in **Arc E — The Missing Vistana** (Act II), so there's no rush on this one yet.
+
+### Tier 3 — situational, low priority
+
+- [ ] **Dhampir / warforged creature-type rule** (VRGtR p. 16) — only relevant if a player character is one of those races.
+- [ ] **Erasmus van Richten** (VRGtR p. 180, Van Richten's ghost son) — appears to be pure narrative flavor (haunts a wagon, has relationships with a couple NPCs) with no indication he needs mechanical stats. Low priority — grab only if he ends up in an actual scene requiring a roll.
+- Note: the **gallows speaker**'s citation to VRGtR p. 234 is *not* a gap — Reloaded already gives it a full custom statblock in `Appendices/Non-Player Characters.md`. Nothing needed there.
+- Note: **zombie plague spreader**'s citation to VRGtR p. 255 is *not* a gap either — already in `Appendices/Bestiary.md`.
+
+### Tier 4 — Amber Temple Vestiges (deferred to that arc)
+
+Arc S (A Sword of Sunlight) touches Vestige/Dark Gift material from VRGtR's Amber Temple content. Small number of citations — will pull the specific list when we're prepping Act IV, same as the Tier 4 workflow above.
