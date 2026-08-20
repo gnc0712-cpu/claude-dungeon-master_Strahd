@@ -41,9 +41,9 @@ Built the same way as everything above — grep'd the real citations across all 
 
 ### Tier 1 — worth getting now
 
-- [ ] **Boneless** (VRGtR p. 228) — appears in **Arc A, Escape From Death House** (the campaign opener — inside the footlocker, made from Gustav Durst's flayed skin) *and* again in Arc P (Ravenloft Heist). Highest priority of anything on this list since it's needed for session one.
-- [ ] **Zombie clots** (VRGtR p. 255) — 25 of them in Arc U, Dreams of Dawn (the finale). Not urgent, but simple to grab now while we're at it.
-- [ ] **Ezra, God of the Mists** (VRGtR p. 64) — this is lore text, not a stat block: the deity some Barovians secretly worship. Referenced in general Barovia lore plus Arc F and Arc T, so it could come up in ordinary exploration/roleplay at almost any point rather than one fixed scene.
+- [x] **Boneless** — captured in `reference/excerpts/boneless.md` (VRGtR p. 228)
+- [x] **Zombie clots** — captured in `reference/excerpts/zombie-clot.md` (VRGtR p. 255)
+- [x] **Ezra, God of the Mists** — captured in `reference/excerpts/ezra-god-of-the-mists.md` (VRGtR p. 64)
 
 ### Tier 2 — a full location, not a quick excerpt
 
