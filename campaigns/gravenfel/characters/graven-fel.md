@@ -2,7 +2,7 @@
 
 ## Basic Info
 - **Race**: Human (2024 rules — see `reference/excerpts/race-human-2024.md`)
-- **Class**: Blood Hunter (Order of the... TBD), Level 2
+- **Class**: Blood Hunter (Order of the Vampire — homebrew subclass), Level 3
 - **Background**: Haunted One (see `reference/excerpts/background-haunted-one.md`)
 - **Alignment**: Chaotic Neutral
 
@@ -20,8 +20,8 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Combat
 - **AC**: 17 (studded leather, 12 + Dex modifier)
-- **HP**: 22 / 22 (max) — Reloaded starts characters at 2nd level
-- **Hit Dice**: 1d10 (2/2 remaining)
+- **HP**: 31 / 31 (max) — leveled to 3 upon reaching the dungeon level of Death House (Reloaded milestone)
+- **Hit Dice**: 1d10 (2/3 remaining — 1 already spent on the balcony short rest, not yet recovered by a long rest)
 - **Speed**: 30 ft.
 - **Initiative**: +5 (DEX)
 - **Proficiency Bonus**: +2
@@ -51,6 +51,10 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 **Fighting Style: Dueling** (Blood Hunter 2) — +2 damage with a one-handed melee weapon when wielding no other weapon. Applies to the longsword as currently equipped.
 
 **Crimson Rite: Rite of the Flame** (Blood Hunter 2) — Bonus action to activate on a held weapon (costs 1d4 necrotic damage to Graven, can't be reduced); while active, that weapon's attacks are magical and deal +1d4 fire damage. Lasts until a short/long rest ends it. Only one weapon can hold a rite at a time.
+
+**Preternatural Charisma** (Order of the Vampire 3, homebrew — see `reference/excerpts/blood-hunter-order-of-the-vampire.md`) — Proficiency in Persuasion or Deception (open item, awaiting player confirmation on which). Blood-tasting ability: a drop of a specific creature's blood on the tongue grants +INT to Charisma checks against them for 1 hour (if alive, shared language required), or advantage on Investigation checks about their death / History checks about their past (if dead).
+
+**Vampiric Maledict** (Order of the Vampire 3, homebrew) — When amplifying a Blood Curse, can deal the Hemocraft die roll as necrotic damage to a blooded target instead/in addition, regain half that as HP (min 1), and gain Preternatural Charisma's benefit against that target.
 
 ## Equipment
 
@@ -95,6 +99,8 @@ Hook: **Lost in the Mists** — no established ties to Barovia; this is a job li
 
 ## Notes
 
-- Levels 1–2 confirmed; next class-feature ask is whatever comes at level 3.
+- Levels 1–3 confirmed; next class-feature ask is whatever comes at level 4.
+- Open item: Persuasion vs. Deception (or both) for Preternatural Charisma — awaiting confirmation.
 - Open item: the nature of the "haunting" is deliberately undefined for now.
 - Encounters in Arc A and beyond are being scaled down from Reloaded's 5-person party assumption to fit solo play, per the player's request — see DM judgment call logged in `../state.md`.
+- Traveling companions: the ghosts of Rose and Thorn Durst (rescued from Death House's attic) — only one possesses Graven at a time, granting either Rose's cantrips (mending, light, shocking grasp) or Thorn's mage hand as an action. Their remains are in Graven's pack; he promised to bury them in a garden once he escapes the house.
