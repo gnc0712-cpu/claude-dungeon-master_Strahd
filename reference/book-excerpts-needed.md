@@ -33,7 +33,9 @@ This is the working checklist of official-book content Reloaded references but d
 
 Reloaded's "Brand-New Barovia" rule: if the guide references a specific room/section of the original book by page number, you use that section as-is unless Reloaded overrides it; if the guide *doesn't* reference something, it doesn't exist in this campaign. That means there are dozens of small page citations scattered across all 21 arcs (e.g. "E2. Blood of the Vine Tavern, p. 43") — too many to usefully front-load now, and most only matter the one time the party is actually in that room.
 
-The workflow for these: when we're about to run an arc that cites the original book, I'll flag exactly which page(s) it needs *before* that session (not mid-scene), you grab it once, and it goes into `reference/excerpts/` under that arc's name — permanent after that. First one up is **Arc A — Escape From Death House**, since that's the campaign opener; I'll give you its specific citation list when we start Session Zero.
+The workflow for these: when we're about to run an arc that cites the original book, I'll flag exactly which page(s) it needs *before* that session (not mid-scene), you grab it once, and it goes into `reference/excerpts/` under that arc's name — permanent after that.
+
+- [x] **Arc A — Escape From Death House** — captured in full in `reference/excerpts/arc-a-death-house-appendix-b.md` (Appendix B, the entire Death House dungeon, all 38 areas). This one was the exception to "small excerpts only": Reloaded rebuilds nearly the whole arc on top of this appendix room by room, so it made more sense to grab it all at once than piecemeal. Remaining Tier 4 items for later arcs stay small, one-off asks as we reach them.
 
 ## Van Richten's Guide to Ravenloft
 
