@@ -2,9 +2,13 @@
 
 **Module:** Curse of Strahd, via Curse of Strahd: Reloaded
 **Party:** Solo (one player character)
-**Session:** 0 (Session Zero complete; character creation next)
+**Session:** 0 (Session Zero and character creation complete; Arc A next)
 **In-world date:** Not yet begun
 **Current location:** Not yet begun
+
+## Party
+
+- **Graven Fel** — Human Blood Hunter (Haunted One background), Level 1. Full sheet: `characters/graven-fel.md`.
 
 ## Session Zero Decisions
 
@@ -29,3 +33,5 @@
 ## Established Facts
 
 - Session Zero held. Solo campaign, full horror content, no prior spoilers, *Lost in the Mists* hook chosen. Campaign named Gravenfel.
+- Graven Fel: human Blood Hunter, Haunted One background. Bonds: seeks greatness beyond all who came before him; collects trophies of his quarry. Flaws: blinding rage toward undead overrides tactics; believes the ends justify the means even at innocents' expense. The specific horror haunting him is deliberately undefined — to surface gradually in play, not resolved yet.
+- Blood Hunter (third-party, Matthew Mercer) is being used for this character — rules text tracked in `reference/excerpts/blood-hunter.md`, expanded level by level as needed.

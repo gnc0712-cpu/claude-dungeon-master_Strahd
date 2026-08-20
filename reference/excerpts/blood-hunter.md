@@ -2,7 +2,7 @@
 
 Source: Matthew Mercer / Critical Role, not official WotC content and not in the bundled SRD. Provided by the player from their own source. Captured level by level as the character actually reaches each level — this file currently covers **level 1 only**.
 
-**Known gap:** the Hemocraft Die size (referenced by Blood Maledict's amplify option, "one roll of your hemocraft die") wasn't included in what was provided. Needed before any amplified blood curse comes up in play — ask for it before then rather than guessing (likely d4 at low levels, but don't assume).
+**Hemocraft Die:** 1d4 (levels 1–4), becomes 1d6 at level 5.
 
 ## Level 1
 
