@@ -64,11 +64,13 @@ Reloaded's arcs assume a rough order but explicitly allow the party to trigger a
 
 ## Gaps: What's Not in This Repo
 
-Reloaded assumes the DM owns the official *Curse of Strahd* book and references it directly rather than reproducing its text. This repo does **not** contain:
-- Strahd von Zarovich's stat block, or any other Monster Manual/CoS-exclusive stat block not listed in `reference/curse-of-strahd-reloaded/Appendices/Bestiary.md` or the SRD.
-- Room-by-room boxed read-aloud text for locations like Castle Ravenloft.
+Reloaded assumes the DM owns the official *Curse of Strahd* book (plus the 2014 PHB/DMG/MM, Xanathar's, and Van Richten's) and references them directly rather than reproducing their text. **`reference/book-excerpts-needed.md` is the tracked checklist of exactly what's missing**, built from the guide's actual citations — not a guess. Note that Strahd himself does *not* need an external stat block: Reloaded gives him his own original multi-phase homebrew statblock (Mage/Soldier/Vampire) directly in `Chapter 2 - The Land of Barovia/Strahd von Zarovich.md`.
 
-When you need one of these, ask the player to paste or summarize it from their copy of the book, and treat what they provide as the source of truth — don't reconstruct it from training-data memory (see the Rules Lookup Discipline in CLAUDE.md).
+Check that file before a session touches something on it. Two rules:
+- **Tier 1/2/3 items** (recurring Monster Manual stat blocks, DMG subsystems, feats) are worth asking the player for upfront, since they get reused across many sessions once captured.
+- **Tier 4 items** (original-module page citations specific to one arc) should be requested *before* the session that needs them, not mid-scene — check the upcoming arc's citations ahead of time and ask then.
+
+Once the player provides something, save it to `reference/excerpts/[topic].md`, check it off in `reference/book-excerpts-needed.md`, and use it from there in every future session — don't ask for it again. Never reconstruct any of this from training-data memory (see the Rules Lookup Discipline in CLAUDE.md) — if it's not in `reference/excerpts/` yet, ask.
 
 ## Established Facts Ledger — Curse of Strahd specifics
 
