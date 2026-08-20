@@ -8,7 +8,11 @@
 
 ## Party
 
-- **Graven Fel** — Human Blood Hunter (Haunted One background), Level 1. Full sheet: `characters/graven-fel.md`.
+- **Graven Fel** — Human Blood Hunter (Haunted One background), Level 2 (Reloaded starts characters at 2nd level, not 1st). Full sheet: `characters/graven-fel.md`.
+
+## DM Judgment Calls
+
+- **Solo scaling:** Arc A (and the campaign generally) is written for a 5-person party. Player chose to have encounters scaled down by DM judgment rather than run RAW or add a companion NPC — reduce monster counts/HP per encounter to keep tension fair for one character, without telegraphing the exact adjustments to the player.
 
 ## Session Zero Decisions
 
@@ -19,7 +23,7 @@
 ## Progress
 
 - **Current Act/Arc/Chapter:** Not yet started — Arc A (Escape From Death House) is next.
-- **Milestone level:** —
+- **Milestone level:** 2 (starting level per Reloaded)
 - **Tarokka reading results:** Not yet read. Fixed placements per Reloaded (see `dm-instructions/curse-of-strahd-reloaded.md`): Tome of Strahd → Leo Dilisnya (Ethereal); Holy Symbol of Ravenkind → Werewolf Den shrine; Sunsword → Amber Temple, Vampyr's sarcophagus; Strahd's Enemy → Ezmerelda d'Avenir; Strahd's location (finale) → Castle Ravenloft, K20 Heart of Sorrow.
 
 ## Strahd's Espionage Log

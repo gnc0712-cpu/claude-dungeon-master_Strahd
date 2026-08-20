@@ -1,6 +1,6 @@
 # Blood Hunter (third-party class)
 
-Source: Matthew Mercer / Critical Role, not official WotC content and not in the bundled SRD. Provided by the player from their own source. Captured level by level as the character actually reaches each level — this file currently covers **level 1 only**.
+Source: Matthew Mercer / Critical Role, not official WotC content and not in the bundled SRD. Provided by the player from their own source. Captured level by level as the character actually reaches each level — this file currently covers **levels 1–2**.
 
 **Hemocraft Die:** 1d4 (levels 1–4), becomes 1d6 at level 5.
 
@@ -30,6 +30,14 @@ This character's Hemocraft Modifier: **Intelligence**.
 Each time you use Blood Maledict, choose which known curse to invoke. Before it affects the target, you can choose to *amplify* the curse by taking necrotic damage equal to one roll of your hemocraft die (this damage can't be reduced in any way) — an amplified curse gains an additional effect noted in its description. Creatures without blood are immune to blood curses unless the curse is amplified.
 
 Once used, requires a short or long rest to use again. Usable twice between rests starting at 6th level, three times at 13th, four times at 17th.
+
+## Level 2
+
+**Fighting Style: Dueling** (text per the core 5e SRD, `dnd-5e-srd/markdown/02 classes.md` — same wording used by Fighter/Paladin/Ranger). When wielding a melee weapon in one hand and no other weapons, gain a +2 bonus to damage rolls with that weapon.
+
+**Crimson Rite.** At 2nd level, you learn to invoke a rite of hemocraft that infuses your weapon strikes with elemental energy. As a bonus action, activate any rite you know on one weapon you're holding — the effect lasts until you finish a short or long rest. Activating a rite costs necrotic damage equal to one roll of your hemocraft die (can't be reduced in any way). While active, attacks with that weapon are magical and deal extra damage equal to your hemocraft die, of the type determined by the chosen rite. A weapon can hold only one active rite at a time; other creatures can't benefit from your rite. You choose one rite when you first gain this feature, and learn an additional rite at 7th and 14th level.
+
+*Rite of the Flame* (chosen). The extra damage dealt is fire damage.
 
 ## Blood Curses Known
 

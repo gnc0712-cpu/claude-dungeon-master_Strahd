@@ -2,7 +2,7 @@
 
 ## Basic Info
 - **Race**: Human (2024 rules — see `reference/excerpts/race-human-2024.md`)
-- **Class**: Blood Hunter (Order of the... TBD), Level 1
+- **Class**: Blood Hunter (Order of the... TBD), Level 2
 - **Background**: Haunted One (see `reference/excerpts/background-haunted-one.md`)
 - **Alignment**: Chaotic Neutral
 
@@ -20,8 +20,8 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Combat
 - **AC**: 17 (studded leather, 12 + Dex modifier)
-- **HP**: 13 / 13 (max) — 10 + CON mod (+3), Blood Hunter d10 hit die
-- **Hit Dice**: 1d10 (1/1 remaining)
+- **HP**: 22 / 22 (max) — Reloaded starts characters at 2nd level
+- **Hit Dice**: 1d10 (2/2 remaining)
 - **Speed**: 30 ft.
 - **Initiative**: +5 (DEX)
 - **Proficiency Bonus**: +2
@@ -48,11 +48,16 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 **Heart of Darkness** (Haunted One background) — Commoners extend every courtesy and will fight alongside Graven against a threat, unless he's shown himself dangerous to them.
 
+**Fighting Style: Dueling** (Blood Hunter 2) — +2 damage with a one-handed melee weapon when wielding no other weapon. Applies to the longsword as currently equipped.
+
+**Crimson Rite: Rite of the Flame** (Blood Hunter 2) — Bonus action to activate on a held weapon (costs 1d4 necrotic damage to Graven, can't be reduced); while active, that weapon's attacks are magical and deal +1d4 fire damage. Lasts until a short/long rest ends it. Only one weapon can hold a rite at a time.
+
 ## Equipment
 
 **Weapons**
-- Longsword — 1d8 slashing (versatile 1d10), STR-based (no finesse feature confirmed yet): +3 to hit, 1d8+1 (or 1d10+1 two-handed) damage
-- Light crossbow + 20 bolts — 1d8 piercing, DEX-based: +7 to hit, 1d8+5 damage. *This is his stronger weapon by a wide margin given DEX 20 vs. STR 12 — worth keeping in mind for how he actually fights, or flag if a finesse feature shows up later that would let the longsword use DEX instead.*
+- Longsword (one-handed, no offhand — Dueling active) — +3 to hit, 1d8+1(STR)+2(Dueling) = **1d8+3** slashing. With Crimson Rite (Rite of the Flame) active on it: +1d4 fire damage as well, and the attacks count as magical.
+- Longsword (two-handed, versatile) — +3 to hit, 1d10+1 damage — **loses the Dueling +2** since it's no longer "one hand and no other weapons" in the same sense worth double-checking in play; default to one-handed to keep Dueling active.
+- Light crossbow + 20 bolts — 1d8 piercing, DEX-based: +7 to hit, 1d8+5 damage. Still his highest raw damage output, but the longsword+Dueling+Rite combo closes the gap and adds a damage type (fire) that bypasses nonmagical resistance/immunity — worth choosing per-encounter based on what he's fighting.
 
 **Armor:** Studded leather (AC 17 total)
 
@@ -90,5 +95,6 @@ Hook: **Lost in the Mists** — no established ties to Barovia; this is a job li
 
 ## Notes
 
-- Open item: Hemocraft die and level-1 features confirmed; Crimson Rite / Fighting Style (if the class has them) not yet provided — ask if/when they'd matter.
+- Levels 1–2 confirmed; next class-feature ask is whatever comes at level 3.
 - Open item: the nature of the "haunting" is deliberately undefined for now.
+- Encounters in Arc A and beyond are being scaled down from Reloaded's 5-person party assumption to fit solo play, per the player's request — see DM judgment call logged in `../state.md`.
