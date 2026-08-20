@@ -1,5 +1,7 @@
 # Campaign Generation
 
+> **Note:** The primary campaign in this repo is the pre-built *Curse of Strahd: Reloaded* module — see `dm-instructions/curse-of-strahd-reloaded.md` for how to run it. Use this file only for homebrew side-content within or beyond Barovia.
+
 ## Adventure Hook Types
 
 ### The Patron
