@@ -8,14 +8,15 @@ This is the working checklist of official-book content Reloaded references but d
 
 ## Tier 1 — Monster Manual stat blocks (reused repeatedly, worth getting upfront)
 
-- [ ] **Vampire** (MM p. 297, 2014 numbering) — base stat block; Strahd's own multi-phase block already exists in Reloaded, but ordinary vampires reference this for shapechanger/regeneration/weaknesses traits
-- [ ] **Vampire Spawn** (MM p. 298) — Strahd's spawn and turned NPCs throughout the campaign; used constantly from Act I onward
-- [ ] **Night Hag** (MM p. 178) — Morgantha's coven at Old Bonegrinder (Arc H reference, cackle fever cure mechanic)
-- [ ] **Ghost** (MM p. 147) — base ghost traits; several unique ghosts (Exethanter, etc.) build on this even though they have their own custom abilities in Reloaded
-- [ ] **Phantom Warrior** (*Curse of Strahd* p. 235 — this one's from the original module itself, not the MM) — recurs across at least 6 different arcs (Dragon's Manor, Shining Beacon, Into the Valley, Three Fanes, Missing Vistana, Lost Soul)
-- [ ] **Rug of Smothering** (MM p. 20) — trap in Arc O, Dinner with the Devil
-- [ ] **Nightmare** (MM p. 235) and **Phase Spider** (MM p. 334) — referenced for lore/ethereal-plane content in Arc E / Arc H
-- [ ] **Lycanthropy — Player Characters as Lycanthropes** (MM p. 207) — only needed if a PC actually gets infected during Arc C or the werewolf den
+- [x] **Vampire** — captured in `reference/excerpts/vampire.md` (2024 MM, pg. 317)
+- [x] **Vampire Spawn** — captured in `reference/excerpts/vampire-spawn.md` (2024 MM, pg. 315)
+- [x] **Night Hag** — captured in `reference/excerpts/night-hag.md` (2024 MM, pg. 225)
+- [x] **Ghost** — captured in `reference/excerpts/ghost.md` (2024 MM, pg. 131)
+- [x] **Phantom Warrior** — captured in `reference/excerpts/phantom-warrior.md` (2024 MM); Reloaded's own citation points to the original *Curse of Strahd* book instead, but this is close enough to use directly
+- [x] **Rug of Smothering** — captured in `reference/excerpts/rug-of-smothering.md` (2024 MM, pg. 17); note Reloaded modifies its numbers for the Arc O encounter specifically, see that file
+- [x] **Nightmare** — captured in `reference/excerpts/nightmare.md` (2024 MM, pg. 226)
+- [x] **Phase Spider** — captured in `reference/excerpts/phase-spider.md` (2024 MM, pg. 239)
+- [x] **Lycanthropy / vampirism afflictions** — official MM p. 207 rule wasn't available; **replaced with a homebrew house rule** instead, captured in `reference/excerpts/lycanthropy-and-vampirism-homebrew.md`. This is a deliberate deviation from RAW, not a placeholder — flag to the player if it should be revisited.
 
 ## Tier 2 — Dungeon Master's Guide subsystems (situational, low priority)
 
