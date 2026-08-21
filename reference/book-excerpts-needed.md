@@ -14,6 +14,7 @@ Discovered mid-session: `dnd-5e-srd/markdown/08 spellcasting.md` only has spellc
 - [ ] **Toll the Dead** (cantrip)
 - [ ] **Armor of Agathys** (1st level)
 - [ ] **Hex** (1st level)
+- [ ] **Comprehend Languages** (1st level) — added to Graven's prepared spells at Warlock 2, session 3
 
 ## Tier 1 — Monster Manual stat blocks (reused repeatedly, worth getting upfront)
 

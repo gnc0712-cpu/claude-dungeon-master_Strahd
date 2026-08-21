@@ -31,3 +31,16 @@ Whenever you attack with the bonded weapon, you can use your Charisma modifier f
 The bond ends if you use this Bonus Action again, if the weapon is more than 5 feet from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 **Note for Graven:** his longsword isn't a magic weapon (Crimson Rite only makes its attacks count as magical while active, doesn't make the weapon itself a "magic weapon" for bonding purposes), so bonding with it directly via the "touch a magic weapon" clause isn't available. The "conjure a pact weapon" option creates a new weapon rather than empowering the longsword — worth deciding in play whether that's worth doing versus just continuing to use the longsword/dagger normally.
+
+## Level 2 (Graven's session-3 level-up)
+
+Player-provided, from their own 2024 PHB copy:
+
+- **Hit Points:** class table increase — Graven's new max is 47 (up from 39).
+- **Prepared Spells:** +1 — Graven adds **Comprehend Languages**. Prepared list is now: Armor of Agathys, Hex, Comprehend Languages (3 total, up from 2).
+- **Eldritch Invocations:** 2 more known (3 total, alongside Pact of the Blade):
+  - **Agonizing Blast** — prerequisite level 2+ Warlock + a damage-dealing Warlock cantrip; add Charisma modifier to that cantrip's damage rolls. Repeatable (different cantrip each time). Applied to **Eldritch Blast**.
+  - **Eldritch Spear** — prerequisite level 2+ Warlock + a damage-dealing Warlock cantrip with 10+ ft. range; that cantrip's range increases by 30 ft. × Warlock level. Repeatable (different cantrip each time). Applied to **Eldritch Blast** (range now +60 ft. at Warlock 2).
+- **Magical Cunning** (new feature): perform a 1-minute esoteric rite; at the end of it, regain expended Pact Magic slots up to half your maximum (round up). Once per Long Rest.
+
+**Not yet confirmed:** exact Spell Slots count at Warlock 2 (the bundled excerpt only had the level-1 row: 1 slot). Assuming the standard 2 slots at 1st level pending player confirmation — flag if that's wrong.

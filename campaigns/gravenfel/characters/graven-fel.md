@@ -2,7 +2,7 @@
 
 ## Basic Info
 - **Race**: Human (2024 rules — see `reference/excerpts/race-human-2024.md`)
-- **Class**: Blood Hunter (Order of the Vampire — homebrew subclass) 3 / Warlock 1 — multiclassed
+- **Class**: Blood Hunter (Order of the Vampire — homebrew subclass) 3 / Warlock 2 — multiclassed
 - **Background**: Haunted One (see `reference/excerpts/background-haunted-one.md`)
 - **Alignment**: Chaotic Neutral
 
@@ -20,9 +20,9 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Combat
 - **AC**: 17 (studded leather, 12 + Dex modifier)
-- **HP**: 39 / 39 (max) — full long rest taken at the tower clearing outside Death House, end of session 1
-- **Hit Dice**: 1d10 x3/3 (Blood Hunter), 1d8 x1/1 (Warlock) — all recovered by the long rest
-- **Resources available**: Blood Maledict (1 use), Warlock spell slot (1, 1st level), Heroic Inspiration (gained from completing this long rest, per Resourceful) — all reset/gained by the long rest
+- **HP**: 47 (max, as of session 3's level-up; Warlock 2 hit die increase) — currently 46/47 (retaining the 1 HP untreated necrotic deficit from session 2's Crimson Rite use)
+- **Hit Dice**: 1d10 x3/3 (Blood Hunter), 1d8 x2/2 (Warlock)
+- **Resources available**: Blood Maledict (1 use), Warlock spell slots (2, 1st level — standard 2024 progression assumed, not yet confirmed against the player's own table), Magical Cunning (1/long rest, new at Warlock 2 — 1-minute rite to regain expended Pact Magic slots up to half max, rounded up)
 - **Speed**: 30 ft.
 - **Initiative**: +5 (DEX)
 - **Proficiency Bonus**: +2
@@ -59,11 +59,16 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 **Multiclass note** (2024 rules — see `reference/excerpts/warlock-2024.md`): multiclassing into Warlock grants only the Hit Point Die (d8, already reflected above) and light armor training (redundant — already has it from Blood Hunter). No additional save/skill/weapon proficiencies from this level; corrected from an earlier draft of this sheet.
 
-**Eldritch Invocations** (Warlock 1) — 1 invocation known. **Chosen: Pact of the Blade** — bonus action to conjure a pact weapon (simple/martial melee, bonded) or bond with a magic weapon touched; while bonded, can use CHA instead of STR/DEX for attack and damage rolls with it, and can change its damage type to necrotic, psychic, or radiant. Bond ends if reused, if the weapon leaves 5 ft. for 1 minute+, or on death. Note: Graven's longsword isn't a magic weapon, so it can't be bonded via the "touch" option — using this would mean conjuring a separate weapon instead, not empowering the longsword itself. Not yet used in play.
+**Eldritch Invocations** (Warlock 1, +2 at Warlock 2) — 3 invocations known:
+- **Pact of the Blade** — bonus action to conjure a pact weapon (simple/martial melee, bonded) or bond with a magic weapon touched; while bonded, can use CHA instead of STR/DEX for attack and damage rolls with it, and can change its damage type to necrotic, psychic, or radiant. Bond ends if reused, if the weapon leaves 5 ft. for 1 minute+, or on death. Note: Graven's longsword isn't a magic weapon, so it can't be bonded via the "touch" option — using this would mean conjuring a separate weapon instead, not empowering the longsword itself. Not yet used in play.
+- **Agonizing Blast** (new, Warlock 2) — adds Charisma modifier to Eldritch Blast's damage rolls.
+- **Eldritch Spear** (new, Warlock 2) — Eldritch Blast's range increases by 30 ft. × Warlock level (currently +60 ft.).
 
-**Pact Magic** (Warlock 1) — No patron/subclass chosen yet (that's a level-3 Warlock feature in 2024 rules, not level 1 — fits the "unconfirmed patron" story beat exactly). Spellcasting ability: Charisma. Spell save DC = 8 + prof (+2) + CHA (+2) = 12. Spell attack modifier = +4. 1 spell slot (1st level), regains on short or long rest.
+**Magical Cunning** (Warlock 2) — perform a 1-minute esoteric rite; at the end of it, regain expended Pact Magic spell slots up to half your maximum (round up). Once per long rest.
+
+**Pact Magic** (Warlock 1, +1 prepared spell at Warlock 2) — No patron/subclass chosen yet (that's a level-3 Warlock feature in 2024 rules — fits the "unconfirmed patron" story beat exactly). Spellcasting ability: Charisma. Spell save DC = 8 + prof (+2) + CHA (+2) = 12. Spell attack modifier = +4. 2 spell slots (1st level, standard progression assumed — not yet confirmed against the player's own table), regains on short or long rest.
 - Cantrips known: Eldritch Blast, Toll the Dead *(SRD spells, but not in this repo's bundled SRD text — pending player-provided excerpts before first cast, see `reference/book-excerpts-needed.md`)*
-- Prepared spells: Armor of Agathys, Hex *(same — pending excerpts)*
+- Prepared spells: Armor of Agathys, Hex, Comprehend Languages (new, Warlock 2) *(Comprehend Languages text also pending capture)*
 
 ## Equipment
 
