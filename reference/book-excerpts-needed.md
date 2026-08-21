@@ -10,7 +10,7 @@ This is the working checklist of official-book content Reloaded references but d
 
 Discovered mid-session: `dnd-5e-srd/markdown/08 spellcasting.md` only has spellcasting *rules*, not a spell compendium — spell names appear in class spell lists but not their actual text. These four are all genuinely SRD-legal, just missing from this particular bundle's conversion. Needed before Graven's Warlock spells are cast for the first time.
 
-- [ ] **Eldritch Blast** (cantrip)
+- [x] **Eldritch Blast** (cantrip) — captured in `reference/excerpts/eldritch-blast.md`
 - [ ] **Toll the Dead** (cantrip)
 - [ ] **Armor of Agathys** (1st level)
 - [ ] **Hex** (1st level)
