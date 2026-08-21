@@ -82,13 +82,14 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 - Monster Hunter's Pack: chest, crowbar, hammer, 3 wooden stakes, holy symbol, flask of holy water, manacles, steel mirror, flask of oil, tinderbox, 3 torches
 - Alchemist's supplies (tool proficiency)
 - Set of common clothes
+- **Bought at Bildrath's, session 2:** 10 more days of rations (20 total now, meant to cover both Graven and Ireena on the road to Vallaki), 5 more torches, 5 more oil flasks, a bedroll (carried for Ireena)
 
 **Personal items**
 - A silver coin worn as a necklace
 - A vial of dragon blood
 
 **Valuables/loot (Death House)**
-- Coin: 11 gp, 60 sp
+- Coin: ~10 gp, 45 sp (spent ~6.55 gp at Bildrath's Mercantile, session 2: 10 days rations, 5 torches, 5 oil flasks, a bedroll for Ireena — normal PHB pricing, per Ismark's word and Graven's earlier kindness to Bildrath)
 - Three moss agates (10 gp each)
 - A carnelian eyepatch (50 gp)
 - An ivory hairbrush, bristles now gone — melted down for silver, session 2 (handle itself has no real value left)
