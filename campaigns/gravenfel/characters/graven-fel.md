@@ -20,7 +20,7 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Combat
 - **AC**: 17 (studded leather, 12 + Dex modifier)
-- **HP**: 47 (max, as of session 3's level-up; Warlock 2 hit die increase) — currently 46/47 (retaining the 1 HP untreated necrotic deficit from session 2's Crimson Rite use)
+- **HP**: 36 (max, temporarily reduced from 47 — Strahd's bite at the River Ivlis Crossroads, session 3, drained 11 HP max as necrotic damage; recovers via the standard vampire-bite rule: on a long rest, if not bitten again within 24 hours, roll one hit die + CON modifier to restore max HP, capped at the original 47) — currently 26/36
 - **Hit Dice**: 1d10 x3/3 (Blood Hunter), 1d8 x2/2 (Warlock)
 - **Resources available**: Blood Maledict (1 use), Warlock spell slots (2, 1st level — standard 2024 progression assumed, not yet confirmed against the player's own table), Magical Cunning (1/long rest, new at Warlock 2 — 1-minute rite to regain expended Pact Magic slots up to half max, rounded up)
 - **Speed**: 30 ft.
@@ -69,6 +69,17 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 **Pact Magic** (Warlock 1, +1 prepared spell at Warlock 2) — No patron/subclass chosen yet (that's a level-3 Warlock feature in 2024 rules — fits the "unconfirmed patron" story beat exactly). Spellcasting ability: Charisma. Spell save DC = 8 + prof (+2) + CHA (+2) = 12. Spell attack modifier = +4. 2 spell slots (1st level, standard progression assumed — not yet confirmed against the player's own table), regains on short or long rest.
 - Cantrips known: Eldritch Blast, Toll the Dead *(SRD spells, but not in this repo's bundled SRD text — pending player-provided excerpts before first cast, see `reference/book-excerpts-needed.md`)*
 - Prepared spells: Armor of Agathys, Hex, Comprehend Languages (new, Warlock 2) *(Comprehend Languages text also pending capture)*
+
+## Curse of Vampirism — Stage I: The Thirst
+
+Contracted session 3, River Ivlis Crossroads: Strahd bit Graven personally and deliberately (not opportunistic transmission — no Constitution save was rolled; per `reference/excerpts/lycanthropy-and-vampirism-homebrew.md`, this is the house rule system governing the curse's progression). **Not a vampire yet** — this is the first of three stages, and becoming a true vampire is still a distant, DM-gated story beat (embrace-or-reject choice), not automatic.
+
+- **Darkvision** 60 ft. (new — Graven had none before this).
+- **Vampiric Hunger.** Must consume blood at least once every 3 days, or gain a level of exhaustion that persists until blood is consumed. Clock started session 3.
+- **Symptoms (flavor, not mechanical):** pale skin, cold extremities, insomnia, sunlight sensitivity, a fascination with blood, reduced appetite for ordinary food.
+- Holy water applied directly to the bite wound causes it to sear and burn on contact (session 3) — first concrete in-fiction confirmation that something supernatural took hold, beyond Strahd's own words.
+- No other ability scores, class features, or proficiencies change at this stage. Still fully playable as normal outside of the Vampiric Hunger clock and DM-narrated symptoms.
+- Next stages (per the house rule file, for reference — DM will announce transitions in play, not the player): **Stage II — The Predator** (after feeding several times: regeneration, a vampiric bite attack, a charm ability); **Stage III — The Curse Revealed** (spider climb, misty escape, no longer needs to eat/drink/breathe, full weaknesses — sunlight, running water, invitation — apply from here on).
 
 ## Equipment
 
