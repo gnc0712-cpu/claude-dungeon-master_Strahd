@@ -99,6 +99,10 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 *(Both personal items are unexplained in origin — could be seeded as story hooks later rather than just flavor, if that's of interest.)*
 
+## Documents
+
+- **Letter of Introduction** (from Ismark Kolyanovich, acting Burgomaster of Barovia, session 2) — sealed with the burgomaster's wax sigil (a longsword before a rising sun). Presented to Baron Vargas Vallakovich, Lady Fiona Wachter, Burgomaster Dmitri Krezkov, or their servants/family within the first ten minutes of meeting them, grants advantage on a Charisma (Persuasion) check made within that window (provided success is possible at all). Single use per NPC, in effect.
+
 ## Homebrew Items
 
 **Silver Shrapnel Bomb** — *Adventuring item, uncommon.* A small iron sphere packed with black powder, alchemical reagents, and dozens of razor-thin silver fragments. The exterior is etched with crude protective symbols; the fuse is wrapped in waxed cloth against Barovia's damp. As an action, light and throw it at a point within 60 feet — it detonates on impact. Each creature within a 5-foot-radius sphere makes a DC 13 Dexterity save, taking 3d6 piercing and radiant damage on a failure (half on success). A creature weak to silver that fails the save also suffers the effects of being struck by a silvered weapon until the end of its next turn. Player-designed; crafted using Alchemist's Supplies proficiency and raw silver salvaged from Death House. Quantity is hard-capped by available silver, not by any other restriction — currently 2 in inventory, no more raw silver on hand to make more.
