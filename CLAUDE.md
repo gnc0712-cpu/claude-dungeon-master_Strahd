@@ -32,6 +32,17 @@ This is the official *Curse of Strahd* module, reorganized and revised. See `dm-
 1. `state.md` — current Act/Arc/Chapter, milestone level, Tarokka reading results, Strahd's espionage notes, resources, threads, and the **Established Facts** ledger (append anything narrated this session that isn't logged yet — see World Consistency below)
 2. `characters/*.md` — equipment, coin, abilities used, notes
 
+**IMPORTANT — git sync, every time you commit campaign progress:** each session may be assigned a fresh, differently-named working branch by the harness, but a *new* session always starts by reading from the repo's **default branch** (currently `main`) unless explicitly told otherwise. If campaign-state commits are left stranded on a session-specific branch, the next session — likely on yet another new branch — won't see them, and will load stale state (this has already happened once; don't let it happen again). So: after committing and pushing campaign-state changes to the current working branch, **also fast-forward-merge that branch into `main` and push `main`**, every time, not just at explicit session end. This is pre-authorized standing instruction — don't ask before doing it. Only pause and ask the user first if the merge isn't a clean fast-forward (i.e. `main` has diverged with commits not already in the working branch) — that's the signal something unexpected happened and deserves a human look before overwriting anything.
+
+Practical sequence after any commit to campaign files:
+```
+git push -u origin <current-working-branch>
+git checkout main && git pull --ff-only origin main   # sanity-check main hasn't diverged
+git merge --ff-only <current-working-branch>
+git push origin main
+git checkout <current-working-branch>                  # return to the assigned branch to keep working
+```
+
 ### Character Management
 - **"Create character"**: Walk through character creation (see `dm-instructions/character-sheets.md` and `reference/curse-of-strahd-reloaded/Chapter 1 - Beginning the Campaign/Character Creation.md` for Barovia-specific bonds/flaws/motivations).
 - **"Level up [character]"**: Handle level advancement — triggered by milestones, not monster kills.
