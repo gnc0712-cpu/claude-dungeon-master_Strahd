@@ -37,6 +37,7 @@ Discovered mid-session: `dnd-5e-srd/markdown/08 spellcasting.md` only has spellc
 
 - [ ] **Healer feat** (PHB p. 167, 2014) — only if Ireena joins the party as a companion
 - [ ] **Expert Sidekick** class (Tasha's Cauldron of Everything, p. 142) — same trigger; you listed Tasha's as a book you want anyway, so this can wait for that pass
+- [x] **The Undying** (Warlock patron, Xanathar's Guide to Everything) — captured in `reference/excerpts/warlock-patron-undying.md`; this is Graven's chosen Warlock 3 subclass, reflavored for the "patron that answered his call" thread — see `campaigns/gravenfel/state.md`. Its expanded spell list (*false life*, *ray of sickness*, *blindness/deafness*, *silence*, *feign death*, *speak with dead*, *aura of life*, *death ward*, *contagion*, *legend lore*) still needs individual spell text before first cast, same as the Tier 0 items above.
 
 ## Tier 4 — Original *Curse of Strahd* module (gathered per-arc, not upfront)
 
