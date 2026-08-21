@@ -5,6 +5,7 @@
 **Session:** 1 complete. Session 2 begins with Arc B — Welcome to Barovia.
 **In-world date:** Night of Highharvesttide has passed; dawn approaching after a long rest.
 **Current location:** A clearing in the Svalich Woods, beside a ruined stone tower, at the start of the Old Svalich Road. Death House is gone — collapsed into a bottomless pit the moment Graven escaped it. Neither Graven nor (while they were with him) Rose and Thorn recognized this location; the name "Barovia" hasn't been spoken in-fiction yet.
+**Quest roadmap:** see `campaigns/gravenfel/quest-roadmap.md` for the spoiler-light Act/Arc outline (player-requested, session 2) — check it before letting play wander into a later act's content, and keep its "Where we are right now" section current each session.
 
 ## Party
 
