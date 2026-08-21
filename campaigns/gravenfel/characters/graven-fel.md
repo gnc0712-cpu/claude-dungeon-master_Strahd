@@ -20,8 +20,9 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Combat
 - **AC**: 17 (studded leather, 12 + Dex modifier)
-- **HP**: 12 / 39 (max) — leveled twice this session (Blood Hunter 3 on reaching the dungeon; Warlock 1 after the flesh mound fight). Leveling doesn't auto-heal — current HP carried the +10 from this level up from 2 HP, not a full reset.
-- **Hit Dice**: 1d10 x2/3 remaining (Blood Hunter, 1 spent), 1d8 x1/1 remaining (Warlock, unspent)
+- **HP**: 39 / 39 (max) — full long rest taken at the tower clearing outside Death House, end of session 1
+- **Hit Dice**: 1d10 x3/3 (Blood Hunter), 1d8 x1/1 (Warlock) — all recovered by the long rest
+- **Resources available**: Blood Maledict (1 use), Warlock spell slot (1, 1st level), Heroic Inspiration (gained from completing this long rest, per Resourceful) — all reset/gained by the long rest
 - **Speed**: 30 ft.
 - **Initiative**: +5 (DEX)
 - **Proficiency Bonus**: +2
@@ -69,7 +70,9 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 **Weapons**
 - Longsword (one-handed, no offhand — Dueling active) — +3 to hit, 1d8+1(STR)+2(Dueling) = **1d8+3** slashing. With Crimson Rite (Rite of the Flame) active on it: +1d4 fire damage as well, and the attacks count as magical.
 - Longsword (two-handed, versatile) — +3 to hit, 1d10+1 damage — **loses the Dueling +2** since it's no longer "one hand and no other weapons" in the same sense worth double-checking in play; default to one-handed to keep Dueling active.
-- Light crossbow + 20 bolts — 1d8 piercing, DEX-based: +7 to hit, 1d8+5 damage. Still his highest raw damage output, but the longsword+Dueling+Rite combo closes the gap and adds a damage type (fire) that bypasses nonmagical resistance/immunity — worth choosing per-encounter based on what he's fighting.
+- Light crossbow + 20 bolts (55 spare ordinary bolts, 5 silvered bolts) — 1d8 piercing, DEX-based: +7 to hit, 1d8+5 damage. Still his highest raw damage output, but the longsword+Dueling+Rite combo closes the gap and adds a damage type (fire) that bypasses nonmagical resistance/immunity — worth choosing per-encounter based on what he's fighting.
+- Silvered shortsword (found, Death House Area 25) — finesse-capable per its type, not yet the "active" weapon in rotation but usable.
+- Ancient ritual dagger (found on the altar, Area 38) — 1d4 piercing, finesse. The blade that ended Walter/the flesh mound.
 
 **Armor:** Studded leather (AC 17 total)
 
@@ -82,6 +85,16 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 **Personal items**
 - A silver coin worn as a necklace
 - A vial of dragon blood
+
+**Valuables/loot (Death House)**
+- Coin: 11 gp, 60 sp
+- Three moss agates (10 gp each)
+- A carnelian eyepatch (50 gp)
+- An ivory hairbrush with silver bristles (25 gp), raw silver
+- Assorted silverware from the Dining Room — tarnishes/degrades since removed from the house; still usable as raw silver, not full value
+- Blank black-leather books x3 (25 gp each, from the Secret Room chest)
+- 3 spell scrolls: *bless*, *protection from poison*, *spiritual weapon*
+- The deed to Death House, and the Durst family's signed will (both curiosities/evidence rather than usable items — the house itself no longer exists)
 
 *(Both personal items are unexplained in origin — could be seeded as story hooks later rather than just flavor, if that's of interest.)*
 
