@@ -20,8 +20,8 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Combat
 - **AC**: 17 (studded leather, 12 + Dex modifier)
-- **HP**: 36 (max, temporarily reduced from 47 — Strahd's bite at the River Ivlis Crossroads, session 3, drained 11 HP max as necrotic damage; recovers via the standard vampire-bite rule: on a long rest, if not bitten again within 24 hours, roll one hit die + CON modifier to restore max HP, capped at the original 47) — currently 26/36
-- **Hit Dice**: 1d10 x3/3 (Blood Hunter), 1d8 x2/2 (Warlock)
+- **HP**: 36 (max, temporarily reduced from 47 — Strahd's bite at the River Ivlis Crossroads, session 3, drained 11 HP max as necrotic damage; recovers via the standard vampire-bite rule: on a long rest, if not bitten again within 24 hours, roll one hit die + CON modifier to restore max HP, capped at the original 47) — currently 36/36 (full, after a short rest following the greater strix fight)
+- **Hit Dice**: 1d10 x0/3 (Blood Hunter, all 3 spent healing after the strix fight), 1d8 x2/2 (Warlock, unspent) — refresh (half of total, rounded up) on next long rest
 - **Resources available**: Blood Maledict (1 use), Warlock spell slots (2, 1st level — standard 2024 progression assumed, not yet confirmed against the player's own table), Magical Cunning (1/long rest, new at Warlock 2 — 1-minute rite to regain expended Pact Magic slots up to half max, rounded up)
 - **Speed**: 30 ft.
 - **Initiative**: +5 (DEX)
