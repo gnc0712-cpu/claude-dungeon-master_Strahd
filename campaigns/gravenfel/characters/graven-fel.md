@@ -79,7 +79,7 @@ Contracted session 3, River Ivlis Crossroads: Strahd bit Graven personally and d
 - **Symptoms (flavor, not mechanical):** pale skin, cold extremities, insomnia, sunlight sensitivity, a fascination with blood, reduced appetite for ordinary food.
 - Holy water applied directly to the bite wound causes it to sear and burn on contact (session 3) — first concrete in-fiction confirmation that something supernatural took hold, beyond Strahd's own words.
 - No other ability scores, class features, or proficiencies change at this stage. Still fully playable as normal outside of the Vampiric Hunger clock and DM-narrated symptoms.
-- Next stages (per the house rule file, for reference — DM will announce transitions in play, not the player): **Stage II — The Predator** (after feeding several times: regeneration, a vampiric bite attack, a charm ability); **Stage III — The Curse Revealed** (spider climb, misty escape, no longer needs to eat/drink/breathe, full weaknesses — sunlight, running water, invitation — apply from here on).
+- Next stages (per the house rule file, for reference — DM will announce transitions in play, not the player): **Stage II — The Predator** (after feeding several times: regeneration, a vampiric bite attack, a charm ability, **+1 Charisma** — player-requested addition, session 3); **Stage III — The Curse Revealed** (spider climb, misty escape, no longer needs to eat/drink/breathe, full weaknesses — sunlight, running water, invitation — apply from here on; **+1 more Charisma, total +2 from the curse**).
 
 ## Equipment
 

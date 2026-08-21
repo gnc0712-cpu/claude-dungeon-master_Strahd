@@ -68,6 +68,8 @@ Progressive rather than instant — takes weeks to months to fully manifest.
 
 Drinking a significant amount of blood reduces Hunger by 1d3; from an intelligent humanoid, by 1d4; from a willing creature, normally. Killing specifically to feed can drop Hunger to 0 immediately, but grants a point of **Blood Debt** — a roleplay-facing marker of the character's supernatural/psychological corruption.
 
+**Ability Score Bonus (added session 3, player-requested):** the curse's supernatural presence manifests physically as well as mechanically. Upon reaching **Stage II — The Predator**, Charisma permanently increases by +1. Upon reaching **Stage III — The Curse Revealed** (or choosing to embrace the curse fully as a true vampire, whichever comes first), a further +1 (total +2 from the curse, on top of any other Charisma increases the character has). Not retroactive to Stage I — Graven doesn't have this yet.
+
 **Becoming a true vampire.** At a DM-chosen story point, the character chooses: **reject** the curse (a quest/ritual to permanently remove it) or **embrace** it. On embrace, do *not* hand the player the full Monster Manual vampire statblock (`reference/excerpts/vampire.md`) — that's far too strong for a PC. Use a scaled-down player template instead:
 
 **Player Vampire Template**
