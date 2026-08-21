@@ -2,7 +2,7 @@
 
 ## Basic Info
 - **Race**: Human (2024 rules — see `reference/excerpts/race-human-2024.md`)
-- **Class**: Blood Hunter (Order of the Vampire — homebrew subclass), Level 3
+- **Class**: Blood Hunter (Order of the Vampire — homebrew subclass) 3 / Warlock 1 — multiclassed
 - **Background**: Haunted One (see `reference/excerpts/background-haunted-one.md`)
 - **Alignment**: Chaotic Neutral
 
@@ -20,8 +20,8 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 
 ## Combat
 - **AC**: 17 (studded leather, 12 + Dex modifier)
-- **HP**: 31 / 31 (max) — leveled to 3 upon reaching the dungeon level of Death House (Reloaded milestone)
-- **Hit Dice**: 1d10 (2/3 remaining — 1 already spent on the balcony short rest, not yet recovered by a long rest)
+- **HP**: 12 / 39 (max) — leveled twice this session (Blood Hunter 3 on reaching the dungeon; Warlock 1 after the flesh mound fight). Leveling doesn't auto-heal — current HP carried the +10 from this level up from 2 HP, not a full reset.
+- **Hit Dice**: 1d10 x2/3 remaining (Blood Hunter, 1 spent), 1d8 x1/1 remaining (Warlock, unspent)
 - **Speed**: 30 ft.
 - **Initiative**: +5 (DEX)
 - **Proficiency Bonus**: +2
@@ -55,6 +55,14 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 **Preternatural Charisma** (Order of the Vampire 3, homebrew — see `reference/excerpts/blood-hunter-order-of-the-vampire.md`) — Honeyed Words: proficiency in Persuasion (chosen). Blood-tasting ability: a drop of a specific creature's blood on the tongue grants +INT to Charisma checks against them for 1 hour (if alive, shared language required), or advantage on Investigation checks about their death / History checks about their past (if dead).
 
 **Vampiric Maledict** (Order of the Vampire 3, homebrew) — When amplifying a Blood Curse, can deal the Hemocraft die roll as necrotic damage to a blooded target instead/in addition, regain half that as HP (min 1), and gain Preternatural Charisma's benefit against that target.
+
+**Multiclass note** (2024 rules — see `reference/excerpts/warlock-2024.md`): multiclassing into Warlock grants only the Hit Point Die (d8, already reflected above) and light armor training (redundant — already has it from Blood Hunter). No additional save/skill/weapon proficiencies from this level; corrected from an earlier draft of this sheet.
+
+**Eldritch Invocations** (Warlock 1) — 1 invocation known. **Chosen: Pact of the Blade** — bonus action to conjure a pact weapon (simple/martial melee, bonded) or bond with a magic weapon touched; while bonded, can use CHA instead of STR/DEX for attack and damage rolls with it, and can change its damage type to necrotic, psychic, or radiant. Bond ends if reused, if the weapon leaves 5 ft. for 1 minute+, or on death. Note: Graven's longsword isn't a magic weapon, so it can't be bonded via the "touch" option — using this would mean conjuring a separate weapon instead, not empowering the longsword itself. Not yet used in play.
+
+**Pact Magic** (Warlock 1) — No patron/subclass chosen yet (that's a level-3 Warlock feature in 2024 rules, not level 1 — fits the "unconfirmed patron" story beat exactly). Spellcasting ability: Charisma. Spell save DC = 8 + prof (+2) + CHA (+2) = 12. Spell attack modifier = +4. 1 spell slot (1st level), regains on short or long rest.
+- Cantrips known: Eldritch Blast, Toll the Dead *(SRD spells, but not in this repo's bundled SRD text — pending player-provided excerpts before first cast, see `reference/book-excerpts-needed.md`)*
+- Prepared spells: Armor of Agathys, Hex *(same — pending excerpts)*
 
 ## Equipment
 

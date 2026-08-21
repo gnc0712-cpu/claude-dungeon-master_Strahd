@@ -6,6 +6,15 @@ This is the working checklist of official-book content Reloaded references but d
 
 **Edition note:** Reloaded is written for **2014 rules** (its own intro says so explicitly) and assumes the 2014 PHB/DMG/MM plus Xanathar's Guide and Van Richten's Guide. Your books are 2024 editions. Where a citation below is a monster stat block or feat, giving me the 2024 version is fine — I'll adjudicate the (usually small) differences. Flag it to me if something reads as a bigger mechanical change than expected.
 
+## Tier 0 — Core SRD spells (missing from the bundled SRD itself, needed now)
+
+Discovered mid-session: `dnd-5e-srd/markdown/08 spellcasting.md` only has spellcasting *rules*, not a spell compendium — spell names appear in class spell lists but not their actual text. These four are all genuinely SRD-legal, just missing from this particular bundle's conversion. Needed before Graven's Warlock spells are cast for the first time.
+
+- [ ] **Eldritch Blast** (cantrip)
+- [ ] **Toll the Dead** (cantrip)
+- [ ] **Armor of Agathys** (1st level)
+- [ ] **Hex** (1st level)
+
 ## Tier 1 — Monster Manual stat blocks (reused repeatedly, worth getting upfront)
 
 - [x] **Vampire** — captured in `reference/excerpts/vampire.md` (2024 MM, pg. 317)
