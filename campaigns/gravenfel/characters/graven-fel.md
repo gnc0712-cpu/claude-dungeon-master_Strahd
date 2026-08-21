@@ -68,11 +68,12 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 ## Equipment
 
 **Weapons**
-- Longsword (one-handed, no offhand — Dueling active) — +3 to hit, 1d8+1(STR)+2(Dueling) = **1d8+3** slashing. With Crimson Rite (Rite of the Flame) active on it: +1d4 fire damage as well, and the attacks count as magical.
-- Longsword (two-handed, versatile) — +3 to hit, 1d10+1 damage — **loses the Dueling +2** since it's no longer "one hand and no other weapons" in the same sense worth double-checking in play; default to one-handed to keep Dueling active.
+- **Longsword — now silvered** (one-handed, no offhand — Dueling active) — +3 to hit, 1d8+1(STR)+2(Dueling) = **1d8+3** slashing, silvered (bypasses resistance/immunity to nonmagical, non-silvered damage — matters against lycanthropes and similar even without the Rite active). With Crimson Rite (Rite of the Flame) active on it: +1d4 fire damage as well, and the attacks also count as magical. Silvered at the Burgomaster's mansion, session 2, using melted-down Death House silverware (DC 12 Alchemist's Supplies check, succeeded).
+- Longsword (two-handed, versatile) — +3 to hit, 1d10+1 damage, silvered — **loses the Dueling +2** since it's no longer "one hand and no other weapons" in the same sense worth double-checking in play; default to one-handed to keep Dueling active.
 - Light crossbow + 20 bolts (55 spare ordinary bolts, 5 silvered bolts) — 1d8 piercing, DEX-based: +7 to hit, 1d8+5 damage. Still his highest raw damage output, but the longsword+Dueling+Rite combo closes the gap and adds a damage type (fire) that bypasses nonmagical resistance/immunity — worth choosing per-encounter based on what he's fighting.
 - Silvered shortsword (found, Death House Area 25) — finesse-capable per its type, not yet the "active" weapon in rotation but usable.
 - Ancient ritual dagger (found on the altar, Area 38) — 1d4 piercing, finesse. The blade that ended Walter/the flesh mound.
+- **2x Silver Shrapnel Bomb** (homebrew, crafted session 2 — full write-up below under Homebrew Items) — thrown, DC 13 Dex save, 3d6 piercing/radiant in a 5-ft. radius, silvered-weapon rider on a failed save vs. creatures weak to silver.
 
 **Armor:** Studded leather (AC 17 total)
 
@@ -90,13 +91,17 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 - Coin: 11 gp, 60 sp
 - Three moss agates (10 gp each)
 - A carnelian eyepatch (50 gp)
-- An ivory hairbrush with silver bristles (25 gp), raw silver
-- Assorted silverware from the Dining Room — tarnishes/degrades since removed from the house; still usable as raw silver, not full value
+- An ivory hairbrush, bristles now gone — melted down for silver, session 2 (handle itself has no real value left)
+- ~~Assorted silverware from the Dining Room~~ — melted down for silver, session 2 (spent on silvering the longsword + 2 Silver Shrapnel Bombs)
 - Blank black-leather books x3 (25 gp each, from the Secret Room chest)
 - 3 spell scrolls: *bless*, *protection from poison*, *spiritual weapon*
 - The deed to Death House, and the Durst family's signed will (both curiosities/evidence rather than usable items — the house itself no longer exists)
 
 *(Both personal items are unexplained in origin — could be seeded as story hooks later rather than just flavor, if that's of interest.)*
+
+## Homebrew Items
+
+**Silver Shrapnel Bomb** — *Adventuring item, uncommon.* A small iron sphere packed with black powder, alchemical reagents, and dozens of razor-thin silver fragments. The exterior is etched with crude protective symbols; the fuse is wrapped in waxed cloth against Barovia's damp. As an action, light and throw it at a point within 60 feet — it detonates on impact. Each creature within a 5-foot-radius sphere makes a DC 13 Dexterity save, taking 3d6 piercing and radiant damage on a failure (half on success). A creature weak to silver that fails the save also suffers the effects of being struck by a silvered weapon until the end of its next turn. Player-designed; crafted using Alchemist's Supplies proficiency and raw silver salvaged from Death House. Quantity is hard-capped by available silver, not by any other restriction — currently 2 in inventory, no more raw silver on hand to make more.
 
 ## Personality
 
