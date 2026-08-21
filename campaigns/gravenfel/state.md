@@ -2,7 +2,7 @@
 
 **Module:** Curse of Strahd, via Curse of Strahd: Reloaded
 **Party:** Solo (one player character)
-**Session:** 1 complete. Session 2 begins with Arc B — Welcome to Barovia.
+**Session:** 2 complete (Arc B, start to finish). Session 3 opens on the road to Vallaki, Arc C — **start session 3 with a level-up** (owed, see Progress below), then read Arc C's file and request its "needed for immediate next session" source excerpts (see `reference/book-excerpts-needed.md`) before running the Strahd/Tarokka content.
 **In-world date:** Octyavr 29, mid-morning. Kolyan's burial is complete; Graven and Ireena have just departed the village, heading west on the Old Svalich Road toward Vallaki.
 **Current location:** On the road, having just retrieved Van Richten's hidden cache near the Ivlis Bridge. Next stop: Vallaki (Arc C territory — **read `Act I - Into the Mists/Arc C - Into the Valley.md` before running the next leg of travel**, since it hasn't been consulted yet this campaign and likely includes the first Strahd encounter and the Tarokka reading).
 **Quest roadmap:** see `campaigns/gravenfel/quest-roadmap.md` for the spoiler-light Act/Arc outline (player-requested, session 2) — check it before letting play wander into a later act's content, and keep its "Where we are right now" section current each session.
@@ -29,7 +29,7 @@
 ## Progress
 
 - **Current Act/Arc/Chapter:** Act I, Arc A — **complete**. Arc B (Welcome to Barovia) — **effectively complete** (siege survived, Kolyan buried, Doru spared, Ireena recruited as companion); the only loose B-thread is escorting Ireena the rest of the way to St. Andral's Church once they reach Vallaki. Arc C (Into the Valley) begins now, on the road west — **not yet read this campaign, read it before running the next travel leg.**
-- **Milestone level:** Blood Hunter 3 / Warlock 1 (multiclassed mid-session 1). Exceeds Reloaded's expected level for finishing Arc A; no further level-up owed yet for Arc B's completion, but consider one given the amount of off-script content resolved (Rahadin encounter, Doru's trial, Gertruda's trail) — DM's call at a natural milestone moment.
+- **Milestone level:** Blood Hunter 3 / Warlock 1 (multiclassed mid-session 1) at session 2's end. **A level-up is owed and confirmed for the start of session 3**, awarded for completing Arc B (survived the siege, Kolyan buried, Doru's fate resolved, Ireena recruited) — player explicitly asked to open next session with this. **Open question to resolve with the player at that time: which class advances** — Blood Hunter 3→4 or Warlock 1→2. (Blood Hunter 5 is also relevant to know about for later — Hemocraft Die improves to 1d6 there. Warlock 3 is when The Undying patron/subclass gets chosen, per the hidden-patron plan in DM Judgment Calls — don't rush straight there this level-up unless the player wants to.)
 - **Tarokka reading results:** Not yet read. Fixed placements per Reloaded (see `dm-instructions/curse-of-strahd-reloaded.md`): Tome of Strahd → Leo Dilisnya (Ethereal); Holy Symbol of Ravenkind → Werewolf Den shrine; Sunsword → Amber Temple, Vampyr's sarcophagus; Strahd's Enemy → Ezmerelda d'Avenir; Strahd's location (finale) → Castle Ravenloft, K20 Heart of Sorrow.
 
 ## Strahd's Espionage Log

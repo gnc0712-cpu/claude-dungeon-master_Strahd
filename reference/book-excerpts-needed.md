@@ -47,6 +47,23 @@ The workflow for these: when we're about to run an arc that cites the original b
 
 - [x] **Arc A — Escape From Death House** — captured in full in `reference/excerpts/arc-a-death-house-appendix-b.md` (Appendix B, the entire Death House dungeon, all 38 areas). This one was the exception to "small excerpts only": Reloaded rebuilds nearly the whole arc on top of this appendix room by room, so it made more sense to grab it all at once than piecemeal. Remaining Tier 4 items for later arcs stay small, one-off asks as we reach them.
 - [x] **Arc B — Welcome to Barovia** — captured in `reference/excerpts/original-book-ch2-lands-of-barovia-a-m.md` (Areas A–M, incl. Old Svalich Road p.33, Gates of Barovia p.34, Common Features door/lock/web rules, Svalich Woods/River Ivlis/Tser Pool/Madam Eva/Tser Falls/Black Carriage/Gates of Ravenloft/Lake Zarovich/Arabelle/the Mad Mage of Mount Baratok — the last several are ahead-of-need for future arcs, not Arc B itself), `reference/excerpts/original-book-ch2-crossroads-p-r.md` (Areas P–R, ahead-of-need for Vallaki/Krezk travel), and `reference/excerpts/original-book-ch3-village-of-barovia.md` (E1 Bildrath's Mercantile p.43, E2 Blood of the Vine Tavern p.43 incl. Roleplaying Ismark, E3 Mad Mary's Townhouse, E4 Burgomaster's Mansion p.44 incl. Roleplaying Ireena, E5 Church incl. Donavich/Doru, E6 Cemetery, March of the Dead, Dream Pastries/Morgantha). Note: Reloaded's own Arc B rewrite (Kolyan alive at first arrival, Ireena unbitten, Gertruda's revised fate, Arik as sole tavern owner, etc.) overrides the original book's story facts where they conflict — the excerpt file says so inline. Not yet captured: Barovian Lore (p. 26) and Beliefs and Superstitions (p. 28) — low priority, ask only if a scene specifically needs them.
+- [ ] **Arc C — Into the Valley** — read in full session-end prep (not yet run this campaign). This is the arc with the party's first direct Strahd encounter and the Tarokka reading, so get ahead of it before the next session rather than mid-scene. Already covered by the Arc B excerpts above: Tser Pool Encampment (Area G, incl. Madam Eva's Tent, A Vistana's Tale, treasure table), Tser Falls (Area H), Black Carriage (Area I), Lake Zarovich (Area L). Two remaining tiers:
+  - **Needed for the immediate next session** (River Ivlis Crossroads through the Tarokka reading — the core of what's coming up):
+    - [ ] River Ivlis Crossroads (p. 35) — where the party first meets Strahd; original book's Area F is captured (gallows/graves/Hanged One) in `reference/excerpts/original-book-ch2-lands-of-barovia-a-m.md`, but the p.35 citation may carry more/different detail specific to this edition — worth double-checking against what's already captured before asking fresh
+    - [ ] Carriage House (p. 54) — additional carriage detail beyond what Black Carriage (p.37, already captured) gives
+    - [ ] Dire Wolves stat block (p. 30) — check the 2024 Monster Manual first; this may not need excerpting at all if it's a standard reprinted monster
+    - [ ] Mysterious Visitors (p. 19) — Stanimir, the old Vistana who greets the party
+    - [ ] The Dancing Fire (p. 20) — Stanimir's tale by the campfire
+    - [ ] Tarokka card flavor text: Swords/Spades (p. 12), Strahd's Enemy (p. 15), Strahd's Location in the Castle (p. 17) — nice-to-have atmosphere only; the actual placements are already fixed per `dm-instructions/curse-of-strahd-reloaded.md`, not a blocker
+    - [ ] Skeletal Rider (p. 31) — pays off the Dalvan corpse/compass thread from Arc B
+  - **Needed soon after, once the party approaches Vallaki** (lower urgency — Arc C's own file runs into what's functionally Act II's opening):
+    - [ ] Swarms of Ravens (p. 32)
+    - [ ] Approaching the Town / Town Gates (p. 95) — Vallaki's Morning Gate
+    - [ ] Vallaki Lore (p. 96)
+    - [ ] St. Andral's Church exterior mention (p. 97) — full interior not needed yet, that's Arc D
+    - [ ] N2. Blue Water Inn, including N2c. Taproom, N2l/N2m/N2n guest rooms, N2f. Stable, N2o. Boys' Bedroom (pp. 98-102) — where the party will actually be staying
+    - [ ] Rictavio (p. 238) — a disguised NPC; get this if/when it comes up, don't front-load
+  - Not needed yet: Old Bonegrinder/Dream Pastries content (pp. 48, 125, distinct from the Morgantha material already captured in the Arc B excerpts) and Lady Wachter's Wish/Wachterhaus material (pp. 110, 124) — Act II side content, well past the immediate horizon.
 
 ## Van Richten's Guide to Ravenloft
 
