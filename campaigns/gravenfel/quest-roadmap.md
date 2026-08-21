@@ -9,8 +9,8 @@ Arcs mostly aren't strictly linear — Reloaded's structure allows a fair amount
 | Arc | Where | About | Status |
 |---|---|---|---|
 | A — Escape From Death House | Death House | Escaping the house that dragged you into Barovia | **Complete** |
-| B — Welcome to Barovia | Village of Barovia | First contact with the village, its people, and the siege it's under | **In progress** |
-| C — Into the Valley | Road to Vallaki / Tser Pool | Traveling onward, meeting the Vistani seer who reads your fate | Not yet started |
+| B — Welcome to Barovia | Village of Barovia | First contact with the village, its people, and the siege it's under | **Effectively complete** |
+| C — Into the Valley | Road to Vallaki / Tser Pool | Traveling onward, meeting the Vistani seer who reads your fate | **In progress** |
 
 ## Act II — The Shadowed Town (levels ~4-5)
 
@@ -58,4 +58,4 @@ Not its own numbered arc in this table — it's the confrontation with Strahd hi
 
 ## Where we are right now
 
-**Act I, Arc B — Welcome to Barovia, in progress.** Graven has met Ismark, heard the village's situation, learned Gertruda is missing, and tracked her trail to Castle Ravenloft's gates before deliberately turning back — far too early to go further there. Next: return to the village, help with the barricade defense before dusk properly falls, and let Arc B's actual events (the siege, Ismark's father, Ireena) play out as designed.
+**Act I, Arc C — Into the Valley, just beginning.** Arc B wrapped: the siege was survived, Rahadin delivered Strahd's proclamation, Kolyan Indirovich is dead and buried, Doru was confronted and spared (still imprisoned in the church undercroft by choice), and Ireena Kolyana is now traveling with Graven toward Vallaki per Ismark's request. Gertruda's trail led to Castle Ravenloft — she's alive but a captive there; not rescuable yet. Graven and Ireena just retrieved Van Richten's hidden cache near the Ivlis Bridge and are now on the road toward Vallaki. **Arc C hasn't been read yet this campaign** — read `Act I - Into the Mists/Arc C - Into the Valley.md` before running the next travel leg; it likely includes the first direct Strahd encounter and the Tarokka reading with Madam Eva.

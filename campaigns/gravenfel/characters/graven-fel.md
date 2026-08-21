@@ -83,6 +83,7 @@ Rolled (4d6 drop lowest) then +2 DEX / +1 CON applied from the Haunted One backg
 - Alchemist's supplies (tool proficiency)
 - Set of common clothes
 - **Bought at Bildrath's, session 2:** 10 more days of rations (20 total now, meant to cover both Graven and Ireena on the road to Vallaki), 5 more torches, 5 more oil flasks, a bedroll (carried for Ireena)
+- **Van Richten's hidden cache, session 2** (found via Doru's directions, off the Old Svalich Road near the Ivlis Bridge): 10 more silvered crossbow bolts (15 total now), a flask of holy water, a vial of dried wolvesbane, 15 gp, and an unsigned cautionary note in a careful hand — warns against trusting coincidence or unearned kindness in Barovia, and specifically against a "charming" vampire. Author unidentified in-fiction.
 
 **Personal items**
 - A silver coin worn as a necklace

@@ -3,13 +3,14 @@
 **Module:** Curse of Strahd, via Curse of Strahd: Reloaded
 **Party:** Solo (one player character)
 **Session:** 1 complete. Session 2 begins with Arc B — Welcome to Barovia.
-**In-world date:** Octyavr 28 (day of Graven's arrival in the village and the night of the siege) has just passed; dawn approaching, morning of Octyavr 29.
-**Current location:** The Burgomaster's Mansion, Village of Barovia. Graven spent the night here at Ismark's request, alongside Ireena; Kolyan's body lies in a coffin downstairs, awaiting burial.
+**In-world date:** Octyavr 29, mid-morning. Kolyan's burial is complete; Graven and Ireena have just departed the village, heading west on the Old Svalich Road toward Vallaki.
+**Current location:** On the road, having just retrieved Van Richten's hidden cache near the Ivlis Bridge. Next stop: Vallaki (Arc C territory — **read `Act I - Into the Mists/Arc C - Into the Valley.md` before running the next leg of travel**, since it hasn't been consulted yet this campaign and likely includes the first Strahd encounter and the Tarokka reading).
 **Quest roadmap:** see `campaigns/gravenfel/quest-roadmap.md` for the spoiler-light Act/Arc outline (player-requested, session 2) — check it before letting play wander into a later act's content, and keep its "Where we are right now" section current each session.
 
 ## Party
 
-- **Graven Fel** — Human Blood Hunter (Order of the Vampire, homebrew) 3 / Warlock 1, multiclassed. Full sheet: `characters/graven-fel.md`. Currently full HP (39/39) after a long rest.
+- **Graven Fel** — Human Blood Hunter (Order of the Vampire, homebrew) 3 / Warlock 1, multiclassed. Full sheet: `characters/graven-fel.md`. Currently 38/39 HP (1 necrotic self-damage from Crimson Rite, session 2, otherwise unhurt).
+- **Ireena Kolyana** — joined as a traveling companion, session 2, per Ismark's request (escort to St. Andral's Church, Vallaki). Newly orphaned, unbitten (this campaign's timeline — see Established Facts), grieving but resolute. Not yet run with NPC stats/combat behavior; treat as a sympathetic companion in scenes, consult Reloaded's Ireena profile (`Act I - Into the Mists/Arc B - Welcome to Barovia.md`, B5d) for roleplaying notes if she needs to act in combat.
 - *Rose and Thorn Durst (ghosts) — traveling companions through Arc A, now at rest. See Established Facts; this thread is closed, not part of the ongoing party.*
 
 ## DM Judgment Calls
@@ -27,13 +28,15 @@
 
 ## Progress
 
-- **Current Act/Arc/Chapter:** Act I, Arc A — **complete**. Arc B (Welcome to Barovia) is next, starting from the Old Svalich Road.
-- **Milestone level:** Blood Hunter 3 / Warlock 1 (multiclassed mid-session — see Established Facts). Exceeds Reloaded's expected level for finishing Arc A; no further level-up owed for this milestone.
+- **Current Act/Arc/Chapter:** Act I, Arc A — **complete**. Arc B (Welcome to Barovia) — **effectively complete** (siege survived, Kolyan buried, Doru spared, Ireena recruited as companion); the only loose B-thread is escorting Ireena the rest of the way to St. Andral's Church once they reach Vallaki. Arc C (Into the Valley) begins now, on the road west — **not yet read this campaign, read it before running the next travel leg.**
+- **Milestone level:** Blood Hunter 3 / Warlock 1 (multiclassed mid-session 1). Exceeds Reloaded's expected level for finishing Arc A; no further level-up owed yet for Arc B's completion, but consider one given the amount of off-script content resolved (Rahadin encounter, Doru's trial, Gertruda's trail) — DM's call at a natural milestone moment.
 - **Tarokka reading results:** Not yet read. Fixed placements per Reloaded (see `dm-instructions/curse-of-strahd-reloaded.md`): Tome of Strahd → Leo Dilisnya (Ethereal); Holy Symbol of Ravenkind → Werewolf Den shrine; Sunsword → Amber Temple, Vampyr's sarcophagus; Strahd's Enemy → Ezmerelda d'Avenir; Strahd's location (finale) → Castle Ravenloft, K20 Heart of Sorrow.
 
 ## Strahd's Espionage Log
 
-*(Not yet applicable — Graven hasn't encountered Strahd's spies yet; that tracking begins once Arc B is underway.)*
+- **Day 1 (Octyavr 28), Svalich Woods:** a lone wolf watched Graven from the treeline while he tracked Gertruda's trail toward Castle Ravenloft, unhurried, made no move to engage, vanished once noticed. Almost certainly one of Strahd's spies — Graven turned back from the castle gates shortly after. Strahd likely knows Graven tracked the trail that far and chose to withdraw.
+- **Night 1, Village of Barovia:** Rahadin (Castle Chamberlain) appeared in person after the siege, delivered a formal proclamation, and spoke directly to Ismark and (within earshot) Graven. Not a passive spy — a deliberate, personal message from Strahd's court. Strahd knows Graven fought at the barricades and was present for this.
+- *(The two swarms-of-bats/rat spy checks from Reloaded's B5h "Return to the Mansion" — night argument eavesdropping and the following morning's rat — were skipped this session since Graven rested through the former and the latter wasn't run; not yet resolved, can be woven in later if convenient, not required.)*
 
 ## Quest Threads
 
@@ -65,3 +68,8 @@
   - **Burgomaster Kolyan Indirovich is dead** — killed at the mansion by Strahd personally, an elegant fatal wound to the chest. **Ireena Kolyana was bitten** (two puncture wounds, neck) but survived, unconscious when found. She recalls a tall gaunt silhouette, a resonant voice, burning red eyes (memory hazy — vampiric charm), and Strahd's parting words: "We shall meet again." She doesn't know why he killed her father but spared her. Graven has not met Strahd directly (Ireena's account is secondhand).
   - Graven is staying the night at the Burgomaster's mansion with Ireena and Ismark, per Ismark's request. (Note: **skipped this session** — Reloaded's own "Western Barricade / Ismark's Last Stand" combat against a zombie plague spreader, which normally precedes Rahadin's arrival, and the midnight "Argument" eavesdropping scene between Ismark and Ireena, since Graven chose to rest through it. Both can be treated as having happened off-screen/resolved; don't re-run them.)
   - Graven melted down the Death House silverware and the ivory hairbrush's silver bristles (session 2, at the mansion) to silver his longsword and craft 2 **Silver Shrapnel Bombs** (player-designed homebrew item, full writeup in `characters/graven-fel.md`). No raw silver left for further crafting.
+  - **Doru — spared, still imprisoned.** Father Donavich's son, turned into a vampire spawn by Strahd as punishment for leading the rebellion 3 months ago, trapped in the church undercroft since. Graven forced the trapdoor open, confronted him, and (at Doru's own request) tested him with fresh blood from a cut on Graven's own palm — Doru resisted successfully. Graven took his father's holy symbol (bloodstained bronze sunburst) back to Donavich per Doru's wish, along with the message that he's "still fighting" — Donavich was overjoyed, agreed to bury Kolyan. Doru remains in the undercroft by his own choice ("I will leave this prison only when my father allows") and gave Graven the location of Van Richten's hidden weapons cache as thanks. Doru asked after Gertruda; told the truth (trail led to Castle Ravenloft), he was distraught but asked Graven to help her if possible. Doru does NOT know who van Richten is by name to Graven — Graven doesn't know either; protect that reveal.
+  - **Kolyan Indirovich buried** at the church cemetery, dawn of Octyavr 29, with Donavich's rites and Ismark's eulogy. Ireena present, largely silent.
+  - **Van Richten's hidden cache** found via Doru's directions (Ivlis Bridge, 300 paces south, ancient oak, hollow beneath the roots): 10 silvered crossbow bolts, a flask of holy water, a vial of wolvesbane, 15 gp, and an unsigned cautionary note warning against trusting coincidence/unearned kindness and specifically against a "charming" vampire. Author unidentified in-fiction — don't reveal it's Van Richten.
+  - Bought at Bildrath's Mercantile (normal PHB pricing, per Ismark's word and Graven's earlier kindness to Bildrath): 10 days rations, 5 torches, 5 oil flasks, a bedroll for Ireena. Bildrath had no silver or holy water in stock (sold out during the siege). Current coin: ~25 gp, 45 sp (after Bildrath purchase, before the cache's +15 gp — update precisely if it matters mechanically later).
+  - Ireena Kolyana is now traveling with Graven, per Ismark's request, bound for St. Andral's Church in Vallaki. She's unbitten in this campaign's timeline (diverges from the original book, where she'd already have been bitten twice by this point — Reloaded's rewrite delays this to the night of the siege, and it didn't happen since Strahd's visit that night targeted Kolyan/Ireena together and only Ireena was bitten once, not twice).
