@@ -45,6 +45,13 @@ Reloaded's "Brand-New Barovia" rule: if the guide references a specific room/sec
 The workflow for these: when we're about to run an arc that cites the original book, I'll flag exactly which page(s) it needs *before* that session (not mid-scene), you grab it once, and it goes into `reference/excerpts/` under that arc's name — permanent after that.
 
 - [x] **Arc A — Escape From Death House** — captured in full in `reference/excerpts/arc-a-death-house-appendix-b.md` (Appendix B, the entire Death House dungeon, all 38 areas). This one was the exception to "small excerpts only": Reloaded rebuilds nearly the whole arc on top of this appendix room by room, so it made more sense to grab it all at once than piecemeal. Remaining Tier 4 items for later arcs stay small, one-off asks as we reach them.
+- [ ] **Arc B — Welcome to Barovia** — citations with no Reloaded rewrite text (need the original page verbatim):
+  - [ ] **Old Svalich Road** (p. 33) — needed immediately, first scene of Arc B
+  - [ ] **Gates of Barovia** (p. 34) — needed immediately, second scene of Arc B
+  - [ ] **E2. Blood of the Vine Tavern** (p. 43) — exterior + interior description; needed once the party reaches the village square
+  - [ ] **E1. Bildrath's Mercantile** (p. 43) — shop layout/inventory; needed once the party visits the mercantile or the eastern barricade
+  - [ ] **E4. Burgomaster's Mansion** (p. 44) — needed once the party enters the mansion
+  - Lower priority (Reloaded's bullet-point summaries in-file likely cover play needs without the original): Roleplaying Ismark (p. 43), Roleplaying Ireena (p. 45), Barovian Lore (p. 26), Beliefs and Superstitions (p. 28)
 
 ## Van Richten's Guide to Ravenloft
 
